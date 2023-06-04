@@ -1,0 +1,37 @@
+
+  .containerSection {
+    font-weight: bold;
+    font-size: 50px;
+    min-height: 100vh;
+    margin: auto;
+    width: 70%;
+    text-align: center;
+}
+
+.heading{
+    font-weight: bold;
+    font-size: 100px;
+    height: 80vh;
+    margin: auto;
+    width: 70%;
+    text-align: center;
+    padding-top: 20%;
+}
+  .container {
+    background-color: black;
+  }
+
+  .highlight {
+    color: yellow;
+    letter-spacing: 5px
+  }
+
+  .base {
+      color: gray;
+      letter-spacing: 5px
+  }
+
+  .heading {
+      color: gray
+  }
+
