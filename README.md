@@ -2,8 +2,7 @@
 
 We have seen the apple airpods animation. I tried to find an example for highlighting the text. This is my implementation of that effect.
 
-
-https://github.com/nauria67/Highlight-Text-on-Scroll-with-Framer/assets/85550407/785ca12d-ee11-4ff5-9034-a6be4842214b
+https://github.com/nauria67/Highlight-Text-on-Scroll-with-Framer/assets/85550407/f814e071-2645-4133-94ae-3fd0e28edf22
 
 
 ## Available Scripts
