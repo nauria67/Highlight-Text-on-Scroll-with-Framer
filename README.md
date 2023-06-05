@@ -8,6 +8,8 @@ https://github.com/nauria67/Highlight-Text-on-Scroll-with-Framer/assets/85550407
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm i`
+Installs the libraries in package.json file
 
 ### `npm start`
 
